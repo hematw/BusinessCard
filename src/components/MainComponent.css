@@ -1,0 +1,78 @@
+
+main {
+    background-color: rgb(26, 27, 33);
+}
+
+.image-box {
+    height: 100vw;
+    max-height: 430px;
+}
+
+.profile {
+    height: 100%;
+    width: 100%;
+}
+
+.info{
+    padding: 10px 2.5rem;
+}
+
+.name {
+    margin: 0;
+}
+
+.title {
+    color: #F3BF99;
+    margin-top: 0;
+}
+
+.site {
+    margin: 12px;
+}
+
+.btn-box {
+    display: flex;
+    gap: 1em;
+    margin: 2em 0;
+}
+
+.btn {
+    flex-grow: 1;
+    width: 50%;
+    padding: 12px 0;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    outline: none;
+    border: none;
+}
+
+.btn-email {
+    background-color: #fff;
+    color: #000;
+}
+
+.btn-lnkd {
+    background-color: #5093E2;
+    color: #fff;
+}
+
+.btn > i {
+    margin: 0 6px;
+} 
+
+.about,
+.interests {
+    text-align: left;
+    margin: 46px 0;
+}
+
+h2 {
+    margin-bottom: 0;
+}
+
+p {
+    margin: 6px 0;
+    color: #DCDCDC;
+    font-size: 1rem;
+}

@@ -1,0 +1,14 @@
+#root {
+  width: 100%;
+  max-width: 430px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
+
+.container {
+  width: 100%;
+}
