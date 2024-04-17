@@ -17,14 +17,14 @@ export default function MainEl() {
                 </div>
 
                 <div className="btn-box">
-                    <button className="btn btn-email">
+                    <a href="mailto: hematullahw@gmail.com" target="_blank" className="btn btn-email">
                         <i class="fa-solid fa-envelope"></i>
                         <span className="text">Email</span>
-                    </button>
-                    <button className="btn btn-lnkd">
+                    </a>
+                    <a href="https://www.linkedin.com/in/hematw" target="_blank" className="btn btn-lnkd">
                         <i class="fa-brands fa-linkedin"></i>
                         <span className="text">Linkedin</span>
-                    </button>
+                    </a>
                 </div>
 
                 <div className="about">
